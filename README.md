@@ -1,2 +1,3 @@
-# laTex
+### laTex
+=======
 My Latex template
